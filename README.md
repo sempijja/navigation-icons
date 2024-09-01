@@ -30,3 +30,4 @@ git clone https://github.com/sempijja/navigation-icons.git
 cd navigation-icons
 npm install
 npm start
+
